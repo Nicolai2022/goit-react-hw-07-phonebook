@@ -6,7 +6,7 @@ align-items: center;
 justify-content: space-between;
 margin: 0;
 padding: 0;
-background-color: #f1f5c4;
+background-color: #f2f5c4;
 `;
 
 export const ContactText = styled.p`
